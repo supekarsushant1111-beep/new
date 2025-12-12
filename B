@@ -1,1 +1,8 @@
-Some contet with a typo
+  GNU nano 8.7                                       B                                       Modified
+
+
+
+
+
+
+fix the typo inside the file
